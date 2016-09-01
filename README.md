@@ -1,0 +1,2 @@
+# newGroup
+新功
